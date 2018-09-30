@@ -102,7 +102,7 @@ client.on("message", message => {
  
   if(command === 'ping') {
     message.channel.send('Pong!');
-  } else
+  } 
 
 });
 

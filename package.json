@@ -1,0 +1,19 @@
+{
+  "name": "OzBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "berri the dk",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "libsodium-wrappers": "^0.5.4",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.3",
+    "request": "^2.88.0"
+  }
+}

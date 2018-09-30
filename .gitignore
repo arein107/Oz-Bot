@@ -1,3 +1,6 @@
+#Config files containing login info
+config.json
+
 # Logs
 logs
 *.log
